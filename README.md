@@ -1,2 +1,4 @@
 # Labs
-Labs from university
+Labs from university.
+
+Java 8 used.
